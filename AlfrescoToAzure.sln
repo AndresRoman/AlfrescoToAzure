@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfrescoToAzure", "AlfrescoToAzure\AlfrescoToAzure.csproj", "{4D2ACA76-7020-4817-B15D-EF4C3F2BA5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2ACA76-7020-4817-B15D-EF4C3F2BA5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2ACA76-7020-4817-B15D-EF4C3F2BA5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2ACA76-7020-4817-B15D-EF4C3F2BA5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2ACA76-7020-4817-B15D-EF4C3F2BA5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81D31C8A-2368-4216-9736-2DCFB6D1A661}
+	EndGlobalSection
+EndGlobal

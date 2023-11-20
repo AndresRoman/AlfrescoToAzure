@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f60479e7-52dc-4895-a968-a2fd51465d5d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.55.53/ServerDalWcf/ServicioDAL.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioDAL.xsd" MetadataType="Schema" ID="2e6a85a5-7478-4656-ae4a-767d188cd40f" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?xsd=xsd4" />
+    <MetadataFile FileName="ServicioDAL.disco" MetadataType="Disco" ID="653f639a-b00f-435a-bd7f-58b9e560097c" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?disco" />
+    <MetadataFile FileName="ServicioDAL.wsdl" MetadataType="Wsdl" ID="2cdac350-66aa-44c5-9362-7ad10dc4b0ba" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?wsdl" />
+    <MetadataFile FileName="ServicioDAL1.xsd" MetadataType="Schema" ID="339f410c-fd85-46dd-ad7a-cd737c55f383" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioDAL2.xsd" MetadataType="Schema" ID="60e7e12e-459b-400a-b0da-1b2a97804db4" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicioDAL3.xsd" MetadataType="Schema" ID="76f0c8f5-8318-46a1-b544-f3b1d3a338aa" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicioDAL4.xsd" MetadataType="Schema" ID="8797bcee-513b-4e36-ba43-2b2df917a979" SourceId="1" SourceUrl="http://srvdesapls.coopmego.corp/ServerDalWcf/ServicioDAL.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
